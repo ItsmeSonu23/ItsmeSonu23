@@ -1,63 +1,66 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sonu Mishra</h1>
-<h3 align="center">Full-Stack Developer| Generative AI | MCA Student from Vivekananda Global University</h3>
+<h3 align="center">Full-Stack Developer | Generative AI Enthusiast | MCA Student @ Vivekananda Global University</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <a href="https://linkedin.com/in/sonu23"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+  <a href="mailto:sonumish3180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+  <a href="https://github.com/ItsmeSonu23"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **ChatArena** (real-time chat app)  
-- 🌱 Learning **System Design, Spring Boot, Microservices**  
-- 💬 Ask me about **Java, Spring Boot, C++, Python, JavaScript, React, **  
-- 📫 Reach me at **sonumish3180@gmail.com**  
-- ⚡ Fun fact: *I can code faster after chai ☕*  
+I’m a passionate **Full-Stack Developer** with expertise in building scalable web applications and experimenting with **Generative AI** solutions.  
+Currently working on **ChatArena**, a real-time chat and gaming platform.  
+
+- 💻 **Tech Stack:** Java, Spring Boot, C++, Python, JavaScript, React, Node.js, MySQL, MongoDB  
+- 🎯 **Interests:** System Design, Microservices, AI Integration, Cloud Deployment  
+- 📫 Reach me at: **sonumish3180@gmail.com**  
+- ⚡ Fun fact: *Code + Chai = Productivity Boost* ☕
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/sonu23)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ItsmeSonu23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox)](https://yourwebsite.com)
+## 🛠 Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,react,nodejs,mysql,mongodb,git,github,docker,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<details>
-<summary>📈 Click to View My GitHub Stats</summary>
+## 📊 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsmeSonu23&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ItsmeSonu23&theme=radical" height="165"/>
+</p>
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsmeSonu23&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ItsmeSonu23&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeSonu23&layout=compact&theme=radical)
-
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeSonu23&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
 ## 💼 Featured Projects
-[![ChatArena](https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=ChatArena&theme=radical)](https://github.com/ItsmeSonu23/ChatArena)
-[![BharatLang](https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=BharatLang&theme=radical)](https://github.com/ItsmeSonu23/BharatLang)
+<p align="center">
+  <a href="https://github.com/ItsmeSonu23/ChatArena">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=ChatArena&theme=radical" />
+  </a>
+  <a href="https://github.com/ItsmeSonu23/BharatLang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=BharatLang&theme=radical" />
+  </a>
+</p>
 
 ---
 
-## 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/ItsmeSonu23/ItsmeSonu23/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🌦 Weather in Jaipur
-![Weather](https://wttr.in/Jaipur?format=%C+%t)
-
----
-
-## 🐍 Snake Game (GitHub Contributions)
-![Snake animation](https://github.com/ItsmeSonu23/ItsmeSonu23/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Visitor Count
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ItsmeSonu23)
-
----
+## 📈 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItsmeSonu23" />
+</p>
