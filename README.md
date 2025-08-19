@@ -24,7 +24,7 @@ Currently working on **ChatArena**, a real-time chat and gaming platform.
 
 ## 🛠 Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,react,nodejs,mysql,mongodb,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,react,nodejs,mysql,mongodb,git,github,docker,linux,kafka" />
 </p>
 
 ---
