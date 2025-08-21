@@ -51,11 +51,8 @@ Currently working on **ChatArena**, a real-time chat and gaming platform.
 
 ## 💼 Featured Projects
 <p align="center">
-  <a href="https://github.com/ItsmeSonu23/ChatArena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=ChatArena&theme=radical" />
-  </a>
-  <a href="https://github.com/ItsmeSonu23/BharatLang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=BharatLang&theme=radical" />
+  <a href="[https://github.com/ItsmeSonu23/JobPortal]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeSonu23&repo=JobPortal&theme=radical" />
   </a>
 </p>
 
