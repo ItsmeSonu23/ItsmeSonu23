@@ -7,6 +7,7 @@
   <a href="mailto:sonumish3180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
   <a href="https://github.com/ItsmeSonu23"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox" /></a>
+  <a href="https://leetcode.com/Sonu23/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
 </p>
 
 ---
@@ -37,6 +38,13 @@ Currently working on **ChatArena**, a real-time chat and gaming platform.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeSonu23&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/qjJ4SPuRBu?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
